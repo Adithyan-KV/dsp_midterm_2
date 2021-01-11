@@ -1,0 +1,7 @@
+# venv files
+.vscode
+dsp
+
+#question paper 
+*.pdf
+
